@@ -1,2 +1,2 @@
 # TicTacToe with React
- a simple Tic Tac Toe using React!
+ a simple Tic Tac Toe game using React!
